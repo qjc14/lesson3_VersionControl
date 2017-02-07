@@ -4,15 +4,14 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
-
+(February 7th, 2017
 ## Student Name:  
-(First and Last Name)
+(Quinn and Ciambella)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(I created GitHub accoutnd and linked it to my C9 account, I then used a pre-created template and made a summary of what I had learned this lesson.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to use and link my GitHub account to C9.)
+2. (Learned the importance of version control.)
+3. (Learned a few basic commands in git.)
